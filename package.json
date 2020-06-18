@@ -1,7 +1,7 @@
 {
     "name": "obsidian-api",
     "version": "1.0.8",
-    "description": "Integration API for Wanadev's obsidian projects",
+    "description": "Fork of wanadev/obsidian-api, an integration API for Wanadev's obsidian projects",
     "main": "lib/index.js",
     "scripts": {
         "test": "./node_modules/.bin/grunt test"
