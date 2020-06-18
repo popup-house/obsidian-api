@@ -1,6 +1,6 @@
 {
     "name": "obsidian-api",
-    "version": "1.0.5",
+    "version": "1.0.5-dist",
     "description": "Fork of wanadev/obsidian-api, an integration API for Wanadev's obsidian projects",
     "main": "lib/index.js",
     "scripts": {
